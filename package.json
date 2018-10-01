@@ -1,0 +1,22 @@
+{
+  "name": "words",
+  "version": "0.1.0",
+  "description": "\"A welcome page for enkrateia\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enkrateia/words.git"
+  },
+  "keywords": [
+    "words"
+  ],
+  "author": "cgovea0310@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/enkrateia/words/issues"
+  },
+  "homepage": "https://github.com/enkrateia/words#readme"
+}
